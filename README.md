@@ -27,7 +27,8 @@ A simple Python application for calculating Body Mass Index (BMI) using either A
 ## Screenshots
 
 ![Screenshot](bmi_ss1.png) <!-- Use your image path here -->
-
+![Screenshot](bmi_ss2.png) <!-- Use your image path here -->
+![Screenshot](bmi_ss3.png) <!-- Use your image path here -->
 ## Installation
 
 1. Clone the repository or download the script.
