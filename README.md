@@ -24,6 +24,10 @@ A simple Python application for calculating Body Mass Index (BMI) using either A
 4. **Calculate BMI:**
    - Click the "Calculate BMI" button to view your BMI and weight status.
 
+## Screenshots
+
+![Screenshot](bmi_ss1.png) <!-- Use your image path here -->
+
 ## Installation
 
 1. Clone the repository or download the script.
